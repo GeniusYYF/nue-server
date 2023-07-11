@@ -1,4 +1,3 @@
-```javascript
 const nueServer = require("./server/index")
 
 const apis = {
@@ -28,18 +27,16 @@ const apis = {
     }
 
 };
-
 const config = {
     "port": 9000,
     "users": {
         "b": "b"
     },
     request: {
-        codeNames: ["cloud"]
+        codeNames: ["nueServer"],
+        codeNameDict: { cloud: { test: ['test1'] } }
     }
 }
-
 nueServer.createServer(apis, config)
 
 console.log(nueServer);
-```
