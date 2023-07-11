@@ -1,9 +1,9 @@
 {
   "name": "nue-server",
   "description": "nue server...",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": {
-    "name": "GeniusXYT",
+    "name": "GeniusYYF",
     "telephone": "17679217705",
     "email": "739416541@qq.com"
   },
@@ -14,7 +14,7 @@
   "bugs": {
     "url": ""
   },
-  "homepage": "https://www.npmjs.com/package/nue-server",
+  "homepage": "https://github.com/GeniusYYF",
   "keywords": [
     "nueServer"
   ],
@@ -27,8 +27,8 @@
     "LICENSE"
   ],
   "repository": {
-    "type": "npmjs",
-    "url": "https://www.npmjs.com/package/nue-server?activeTab=code"
+    "type": "GitHub",
+    "url": "https://github.com/GeniusYYF/nue-server.git"
   },
   "devDependencies": {}
 }
